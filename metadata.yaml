@@ -1,0 +1,41 @@
+_repo: O-sangue_70664
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Branco, Camilo Ferreira Botelho Castelo
+    - Branco, Camilo Castelo
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Branco, Camillo Castelo
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - https://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+gutenberg_issued: '2023-04-28'
+identifiers:
+  gutenberg: '70664'
+language: pt
+pgterms:marc904: https://archive.org/details/osangueromance00castuoft/page/16/mode/2up
+pgterms:marc905: 20220320113649castelobra
+pgterms:marc906: '1907'
+pgterms:marc907: PT
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aPortugal :$bParceira Antonio Maria Pereira, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: O sangue
+url: http://www.gutenberg.org/ebooks/70664
